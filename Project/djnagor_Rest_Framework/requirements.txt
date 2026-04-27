@@ -1,0 +1,11 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+django-allauth
+dj-rest-auth
+requests-oauthlib
+requests
+drf-spectacular
+celery
+redis
