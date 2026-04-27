@@ -1,4 +1,0 @@
-      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
-      595     594     595      20672  pty0      197609 10:27:17 /usr/bin/bash
-      594       1     594       9312  ?         197609 10:27:17 /usr/bin/mintty
-      626     595     626      17000  pty0      197609 10:33:44 /usr/bin/PS
